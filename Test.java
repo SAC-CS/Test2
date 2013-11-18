@@ -1,4 +1,3 @@
-
 import javax.swing.JOptionPane;
 
 /**
@@ -84,3 +83,5 @@ public class Test {
         
 }
 }
+
+// The classes culd be cleaner, and you missed the Overloading.
